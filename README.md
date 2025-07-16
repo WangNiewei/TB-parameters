@@ -1,5 +1,5 @@
 # TB-parameters
-There are three folders, including one for each of the three materials: MoS₂, InSe, and the MoS₂|WS₂ heterostructure.
+There are three folders for three materials: MoS₂, InSe, and MoS₂-WS₂ heterostructure.
 Each folder contains: 
   (1) Single-layer orbital coefficients cij (coefficientMatrices.lobster);
   (2) Interlayer hopping integrals t (RealSpaceHamiltonians.lobster);
